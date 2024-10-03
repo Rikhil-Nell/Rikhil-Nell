@@ -1,5 +1,8 @@
 # 💫 About Me:
-- I’m currently working on fine tuning ML models<br>- I’m looking to collaborate on backend or ML/DL related projects<br>- I’m looking for help with CNN's<br>- I’m currently learning Transformers Library<br>
+- I’m currently working on fine tuning ML models<br>
+- I’m looking to collaborate on backend or ML/DL related projects<br>
+- I’m looking for help with CNN's<br>
+- I’m currently learning Transformers Library<br>
 
 
 ## 🌐 Socials:
