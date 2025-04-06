@@ -1,8 +1,8 @@
 # 💫 About Me:
 - I’m currently working on fine tuning ML models<br>
-- I’m looking to collaborate on backend or ML/DL related projects<br>
-- I’m looking for help with CNN's<br>
-- I’m currently learning Transformers Library<br>
+- I build Agents and surrouding architectures<br>
+- I’m looking for help with some research papers<br>
+- I’m currently learning Swarmformers<br>
 
 
 ## 🌐 Socials:
