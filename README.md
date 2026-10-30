@@ -1,2 +1,2 @@
 - I’m currently working on inference engineering
-- I build Agents and surrouding architectures
+- I build agents and adjacent architectures
